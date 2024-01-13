@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+  <img alt="Hello!" align="right" width="300">
+</picture>
 
 **Akanksha0712/Akanksha0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **SHE/HER**
 
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://rishavanand.github.io/static/images/greetings.gif">
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/b7/43/52/b743527a755c9e382579da4eb63c03d1.gif">
-  <img alt="Hello!" align="center" src="https://i.pinimg.com/originals/b7/43/52/b743527a755c9e382579da4eb63c03d1.gif" width ="100%" height="600">
-</picture>
