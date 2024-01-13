@@ -5,9 +5,7 @@
   <img alt="Hello!" align="right" width="300">
 </picture>
 
-**Akanksha0712/Akanksha0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning on **machine learning** & **deep learning**
 - 👯 I’m looking to collaborate on **GenAI Projects**
