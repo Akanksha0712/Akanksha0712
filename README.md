@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with **model deployment**
 - 💬 Ask me about **Data Analysis**
 - 📫 How to reach me: @akankshabansal0702@gmail.com
-- 😄 Pronouns:**SHE/HER**
-- ⚡ Fun fact: ...
+- 😄 Pronouns: **SHE/HER**
+
 
